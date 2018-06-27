@@ -1,0 +1,23 @@
+{
+  "name": "img-stats",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohl91/img-stats.git"
+  },
+  "keywords": [
+    "grafana",
+    "image"
+  ],
+  "author": "Bruno Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohl91/img-stats/issues"
+  },
+  "homepage": "https://github.com/brunohl91/img-stats#readme"
+}
